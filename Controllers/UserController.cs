@@ -1,11 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
-using Product_CRUD_Web_API.Implementation;
 using Product_CRUD_Web_API.Models;
 using Product_CRUD_Web_API.Services;
-using System.IdentityModel.Tokens.Jwt;
-using System.Security.Claims;
-using System.Text;
 
 namespace Product_CRUD_Web_API.Controllers
 {
