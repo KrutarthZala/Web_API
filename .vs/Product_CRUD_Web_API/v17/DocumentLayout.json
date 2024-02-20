@@ -19,29 +19,29 @@
       "RelativeMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|solutionrelative:implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|d:\\training files\\february\\asp.net core web api\\product_crud_web_api\\services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|solutionrelative:services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|d:\\training files\\february\\asp.net core web api\\product_crud_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|d:\\training files\\february\\asp.net core web api\\product_crud_web_api\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|solutionrelative:implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|d:\\training files\\february\\asp.net core web api\\product_crud_web_api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|d:\\training files\\february\\asp.net core web api\\product_crud_web_api\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|solutionrelative:implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|d:\\training files\\february\\asp.net core web api\\product_crud_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|d:\\training files\\february\\asp.net core web api\\product_crud_web_api\\services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|solutionrelative:services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedHeight": 200,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -56,38 +56,40 @@
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEBAAAAAAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHAAAAAOAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVEhLtZVdTsJAFIWroTyDK3ELJuCbsA1ZhQRFRETkV6yV8AAsgAI\u002BugW3wAr0RUop7Tj3dmagtLXFhJOc3mEynXu\u002BSWmlg4oQcsSGqOFwSKcIzAcY7rFZdeZkWf42DOMsl7v8ZNsEazAYEMuyXF5zr7nXWG3bJqPRiMznc6Kqb1\u002BtdueUbePSMasoSASiN0sW2AJbwrSRMKwBJZNJKZVOJeJx\u002BaPRbHma\u002BDbAqzOMpBPa5DydxiZsSijGKoo30MZjrH8pm81iVRQFKygmxxNs6K9\u002Bv4/nvlqZ1CticBuOl8IGWS4NogsviWmuSe2p7uH2EMAKTQsn2FUmkxUnEKher4dPjH9ymjogva47BNXHWhgBXCRpomnOxB6KRKCqKhJsznoneUD6BSOoPFSjEUwnByJQlFf8l7rTO6ndyalZcm7TNEn5vhJG4CD8h\u002BAikwkn6HZf8F3jSSu8OfNt/yx0sqIEpbtyOAGsmE4nzsQeikTQ7jwTkxKItCyxX2qenBsIirelcAJAmB2KoNlq4/Psl1Z4K/UuQeGmGIGA6n02xbqPgIBuwH4FqN5o4vMMKYOSBhkI8oVrTwfPBwdWxOQYWt7D/P5duT768D7HJhFtU9MBVj5XyF\u002B59jywJOkX7ucXnGOxDX8AAAAASUVORK5CYII=",
-              "WhenOpened": "2024-02-20T10:12:32.311Z",
+              "WhenOpened": "2024-02-20T10:17:52.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Services\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Services\\IUnitOfWork.cs",
               "ToolTip": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Services\\IUnitOfWork.cs",
               "RelativeToolTip": "Services\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T09:06:42.797Z"
+              "WhenOpened": "2024-02-20T09:06:42.797Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T09:01:56.89Z"
+              "WhenOpened": "2024-02-20T09:01:56.89Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "Services\\IUserService.cs",
@@ -95,11 +97,12 @@
               "RelativeToolTip": "Services\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T08:58:54.072Z"
+              "WhenOpened": "2024-02-20T08:58:54.072Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Implementation\\UserService.cs",
               "RelativeDocumentMoniker": "Implementation\\UserService.cs",
@@ -107,7 +110,8 @@
               "RelativeToolTip": "Implementation\\UserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T08:58:29.42Z"
+              "WhenOpened": "2024-02-20T08:58:29.42Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -119,7 +123,8 @@
               "RelativeToolTip": "Implementation\\UnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T08:57:50.242Z"
+              "WhenOpened": "2024-02-20T08:57:50.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -131,7 +136,8 @@
               "RelativeToolTip": "Controllers\\ProductController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T08:55:26.771Z"
+              "WhenOpened": "2024-02-20T08:55:26.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -141,10 +147,32 @@
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-20T08:29:48.329Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 199,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
