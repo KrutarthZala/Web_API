@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|d:\\training files\\february\\asp.net core web api\\product_crud_web_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|d:\\training files\\february\\asp.net core web api\\product_crud_web_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|d:\\training files\\february\\asp.net core web api\\product_crud_web_api\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|solutionrelative:implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|d:\\training files\\february\\asp.net core web api\\product_crud_web_api\\services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|solutionrelative:services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|d:\\training files\\february\\asp.net core web api\\product_crud_web_api\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|solutionrelative:implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|d:\\training files\\february\\asp.net core web api\\product_crud_web_api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|d:\\training files\\february\\asp.net core web api\\product_crud_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75821706-CDF5-4A51-9031-C30496FC98D8}|Product_CRUD_Web_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Services\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Services\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Services\\IUnitOfWork.cs",
+              "RelativeToolTip": "Services\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T09:06:42.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwCoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T09:01:56.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T08:58:54.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "Implementation\\UserService.cs",
+              "ToolTip": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Implementation\\UserService.cs",
+              "RelativeToolTip": "Implementation\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T08:58:29.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Implementation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Implementation\\UnitOfWork.cs",
+              "ToolTip": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Implementation\\UnitOfWork.cs",
+              "RelativeToolTip": "Implementation\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T08:57:50.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAuwLQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T08:55:26.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Training files\\February\\ASP.NET Core Web API\\Product_CRUD_Web_API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T08:29:48.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
